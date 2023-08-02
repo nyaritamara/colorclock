@@ -1,0 +1,18 @@
+/*horizontális rendezés*/
+#clock {
+    text-align: center;
+}
+
+/*vertikális rendezés*/
+html, body {
+    height: 100%;
+}
+
+#clock {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    font-family: 'Tektur', cursive;
+    font-size: 5rem;
+    margin-top: -2.5rem;
+}
