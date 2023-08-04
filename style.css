@@ -4,7 +4,8 @@
 }
 
 /*vertikális rendezés*/
-html, body {
+html,
+body {
     height: 100%;
 }
 
@@ -14,5 +15,6 @@ html, body {
     top: 50%;
     font-family: 'Tektur', cursive;
     font-size: 5rem;
+    color: antiquewhite;
     margin-top: -2.5rem;
 }
